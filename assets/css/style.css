@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background-color: #2F4F30 !important;
+    
+    
+}
+
+.titulo{
+  text-align: center;
+  background-color: black; 
+  color: white; 
+  padding: 20px;
+  font-size: 24px;
+ 
+ 
+}
+
+
+.cartas{
+    width: 100px;
+    position: relative;
+    left: 100px;
+    margin-left: -50px;
+}
+
+#comtucadora-cartas, #jugador-cartas{
+
+    height: 200px;
+}
