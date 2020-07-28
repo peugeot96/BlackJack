@@ -5,6 +5,10 @@ body{
     
 }
 
+.btn{
+    font-size: small;  
+  } 
+
 .titulo{
   text-align: center;
   background-color: black; 
